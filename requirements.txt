@@ -1,3 +1,5 @@
+libopenblas-dev
+liblapack-dev
 dlib-bin
 Gunicorn
 Flask
