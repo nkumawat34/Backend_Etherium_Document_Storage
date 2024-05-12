@@ -1,4 +1,4 @@
-dlib-bin==19.22.0
+dlib-bin
 Gunicorn
 Flask
 qrcode
